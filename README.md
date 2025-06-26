@@ -1,5 +1,5 @@
 I do an Other FORK  
-https://github.com/bonnebulle/SubtasksOnBoard_bonnefille/   
+https://github.com/bonnebulle/SubtasksOnBoard_bonnebulle/   
 ( adding buttons, quick edit from BOARD )    
 
 # SubTask Description
