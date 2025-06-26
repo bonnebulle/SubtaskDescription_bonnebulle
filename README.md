@@ -1,3 +1,7 @@
+I do an Other FORK  
+https://github.com/bonnebulle/SubtasksOnBoard_bonnefille/   
+( adding buttons, quick edit from BOARD )    
+
 # SubTask Description
 
 Modify base on [Subtaskdate](https://github.com/eSkiSo/Subtaskdate)
